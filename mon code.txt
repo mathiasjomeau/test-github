@@ -2,6 +2,10 @@ boujour c'est mon code
 bourjour je sais pas quoi mettre !
 je sais toujours pas quoi mettre !
 binjour a toi mon cop1 !
+<<<<<<< HEAD
 coucou mon copain
 toujours la gros inspi !
 n'est pas !
+=======
+coucou mon copain
+>>>>>>> 44a077334377cd80946cd3f49137953f5ae0824d
